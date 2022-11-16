@@ -3,7 +3,7 @@ Este es el repositorio de mi presentación al Hackathon <a href="https://argenti
 El mismo se compone de los siguientes archivos:
 
 - [Consigna](Desafío_1.pdf)
-- <a href="https://drive.google.com/drive/folders/15OslM2gPORiR7Kh3g9XdgzGG_gibmKTN?usp=share_link">Dataset</a> ()
+- <a href="https://drive.google.com/drive/folders/15OslM2gPORiR7Kh3g9XdgzGG_gibmKTN?usp=share_link">Dataset</a>
 - [Informe final](ArgxEdu_2020_Lopez_Yse_Diego.pdf)
 
 
