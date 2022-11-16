@@ -1,8 +1,8 @@
 # Hackathon Argentinos por la Educación 2020
-Este es el repositorio de mi presentación al Hackathon "Argentinos por la Educación" realizado en el año 2020. El mismo se compone de los siguientes archivos:
+Este es el repositorio de mi presentación al Hackathon <a href="https://argentinosporlaeducacion.org/">"Argentinos por la Educación"</a> realizado en el año 2020. El mismo se compone de los siguientes archivos:
 
 - [Consigna](Desafío_1.pdf)
-- Dataset
+- [Dataset] (https://drive.google.com/drive/folders/15OslM2gPORiR7Kh3g9XdgzGG_gibmKTN?usp=share_link)
 - [Informe final](ArgxEdu_2020_Lopez_Yse_Diego.pdf)
 
 
