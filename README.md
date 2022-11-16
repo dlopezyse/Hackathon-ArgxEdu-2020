@@ -3,7 +3,7 @@ Este es el repositorio de mi presentación al Hackathon "Argentinos por la Educa
 
 - Consigna
 - Dataset
-- ArgxEdu_2020_Lopez_Yse_Diego.pdf
+- [Informe final](ArgxEdu_2020_Lopez_Yse_Diego.pdf)
 
 
 Me encantaría conocer cualquier pregunta o sugerencia que tengan de este trabajo.
